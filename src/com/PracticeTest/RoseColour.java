@@ -19,6 +19,7 @@ public class RoseColour {
 			if (r_temp.getRoseColour().equals( red)) {
 				
 				System.out.println("Index: "+i+"		Red			and id is : "+r_temp.getRoseId());
+				System.out.println("Changes done....");
 			}
 			else {
 				
